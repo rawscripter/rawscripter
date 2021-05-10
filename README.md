@@ -7,9 +7,6 @@
 - ⚡ Fun fact: I love to travel new places & Watching Anime & Bike Riding 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawscripter&show_icons=true&locale=en&layout=compact" alt="rawscripter" /></p>
-
-<p></p>
 
 ![RawScripter's github stats](https://github-readme-stats.vercel.app/api?username=rawscripter&show_icons=true)
 

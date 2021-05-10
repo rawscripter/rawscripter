@@ -8,7 +8,7 @@
 
 
 
-![RawScripter's github stats](https://github-readme-stats.vercel.app/api?username=rawscripter&show_icons=true)
+![RawScripter's github stats](https://github-readme-stats.vercel.app/api?username=rawscripter&show_icons=true&theme=radical)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawscripter&label=Profile%20views&color=0e75b6&style=flat" alt="rawscripter" /> </p>

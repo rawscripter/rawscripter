@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Shuvo Goswami AKA RawScripter
 
-- 🔭 I’m currently working on Surveybii (SASS Application)
-- 🌱 I’m currently learning Node.js & React.js
+- 🔭 I’m currently working on Linkii.io (SASS Application)
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 💬 Ask me about anything that you want to know. 
 - ⚡ Fun fact: I love to travel new places & Watching Anime & Bike Riding 
